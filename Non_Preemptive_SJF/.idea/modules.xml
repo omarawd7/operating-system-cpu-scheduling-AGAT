@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/agat.iml" filepath="$PROJECT_DIR$/agat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Non_Preemptive_SJF.iml" filepath="$PROJECT_DIR$/Non_Preemptive_SJF.iml" />
     </modules>
   </component>
 </project>
